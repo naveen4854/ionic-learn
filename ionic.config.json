@@ -1,0 +1,8 @@
+{
+  "name": "learn",
+  "app_id": "750f2cf5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
